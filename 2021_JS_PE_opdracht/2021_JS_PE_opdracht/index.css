@@ -1,0 +1,26 @@
+body{
+    background: url("/img/5172658.jpg") no-repeat center center fixed ;
+    background-size: cover;
+}
+div{
+    margin-top: 10px;
+    padding: 0px 10px 10px 10px;
+}
+form{
+    background-color: white;
+}
+label{
+    text-align: left;
+    margin-left: 15px;
+}
+#centerdiv{
+   margin-top: 10px;
+}
+
+.btn-secondary{
+    background-color: #8900c9 !important;
+}
+
+#error{
+    color: red;
+}
